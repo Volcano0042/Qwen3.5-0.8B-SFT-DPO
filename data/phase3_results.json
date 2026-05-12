@@ -1,0 +1,67 @@
+{
+  "win_rate": 0.7376237623762376,
+  "win_rate_pct": 73.76,
+  "total_pairs": 202,
+  "category_breakdown": {
+    "inconsistent_position_bias": 33,
+    "consistent_dpo_win": 131,
+    "consistent_sft_win": 35,
+    "sft_win_tie": 1,
+    "consistent_tie": 1,
+    "dpo_win_tie": 1
+  },
+  "by_tag": {
+    "社会": {
+      "n": 10,
+      "win_rate_pct": 90.0
+    },
+    "心理学知识": {
+      "n": 5,
+      "win_rate_pct": 90.0
+    },
+    "婚恋": {
+      "n": 33,
+      "win_rate_pct": 71.21
+    },
+    "行为": {
+      "n": 14,
+      "win_rate_pct": 78.57
+    },
+    "家庭": {
+      "n": 23,
+      "win_rate_pct": 65.22
+    },
+    "自我": {
+      "n": 16,
+      "win_rate_pct": 81.25
+    },
+    "治疗": {
+      "n": 20,
+      "win_rate_pct": 66.25
+    },
+    "性心理": {
+      "n": 8,
+      "win_rate_pct": 68.75
+    },
+    "成长": {
+      "n": 18,
+      "win_rate_pct": 86.11
+    },
+    "人际": {
+      "n": 25,
+      "win_rate_pct": 70.0
+    },
+    "情绪": {
+      "n": 20,
+      "win_rate_pct": 71.25
+    },
+    "职场": {
+      "n": 10,
+      "win_rate_pct": 70.0
+    }
+  },
+  "position_bias_pct": 16.34,
+  "pure_win_rate_pct": 78.92,
+  "pure_dpo_wins": 131,
+  "pure_sft_wins": 35
+}
