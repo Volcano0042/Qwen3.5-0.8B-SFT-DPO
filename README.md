@@ -37,7 +37,7 @@
 
 * **Trainable parameters:**仅需训练 `0.63% `的模型参数
 
-  ![image-20260511160716341](C:\Users\86131\AppData\Roaming\Typora\typora-user-images\image-20260511160716341.png)
+  ![Lora 参数占比](my_output/figures/0_lora.png)
 
 * **Final Loss**:  `1.9394`
 
@@ -45,7 +45,7 @@
 
 * **Training Time**: `~1h 20m`
 
-<img src="C:\Users\86131\AppData\Roaming\Typora\typora-user-images\image-20260513000641625.png" alt="image-20260513000641625" style="zoom:67%;" />
+![LoRA 训练曲线](my_output/figures/1_lora_training.png)
 
 ## 3. DPO训练
 
@@ -59,9 +59,9 @@
 
 **训练曲线：**
 
-<img src="C:\Users\86131\Desktop\Psy-Qwen-DPO-main\fig2_training_curves.png" alt="fig2_training_curves" style="zoom: 50%;" />
+![Dpo 训练曲线](my_output/figures/2_dpo_curves.png)
 
-<img src="C:\Users\86131\AppData\Roaming\Typora\typora-user-images\image-20260513113544264.png" alt="image-20260513113544264" style="zoom:67%;" />
+![Dpo eval曲线](my_output/figures/3_dpo_eval.png)
 
 | Metric                    | Final value             |
 | ------------------------- | ----------------------- |
